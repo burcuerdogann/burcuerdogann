@@ -5,12 +5,11 @@ Hier finden Sie meine Website und meine Social Accounts:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Website&logoColor=white)](https://www.designbyburcu.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@burcuerdogann)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 
 
 
 <!--
-
 
 
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
