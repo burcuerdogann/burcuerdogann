@@ -10,32 +10,13 @@ Hier finden Sie meine Website und meine Social Accounts:
 
 
 
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[6]: http://www.github.com/burcuerdogann
-
-
 
 
 
 <!--
+
+
+
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -53,6 +34,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/burcuerdogann/burcuerdogann/blob/main/check-mail-mail.gif" width="auto">
 
 📫 Reach me: designbyburcuerdogan at gmail dot com
+
+
+
+[![alt text][6.1]][6]
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[6]: http://www.github.com/burcuerdogann
+
 
 
 -->
