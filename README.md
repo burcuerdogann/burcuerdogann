@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there.
 
 Ich bin Burcu.
 Hier finden Sie meine Website und meine Social Accounts:
@@ -9,11 +9,11 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/designbyburcuerdogan/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://tr.pinterest.com/BurcuErdogann/)
 
 <!--
 
 https://aleen42.github.io/badges/src/stackoverflow.svg
-www.pinterest.com/BurcuErdogann
 
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
