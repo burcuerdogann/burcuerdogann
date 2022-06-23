@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Ich bin Burcu.
-
+I’m <a href=”https://www.designbyburcuerdogan.com/" target=”_blank” rel=”noreferrer”>Burcu</a>
 
 <!--
 
