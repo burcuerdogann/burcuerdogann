@@ -11,7 +11,7 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/designbyburcuerdogan/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://tr.pinterest.com/BurcuErdogann/)
 
-You can reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) designbyburcuerdogan at gmail dot com
+You can reach me: designbyburcuerdogan at gmail dot com
 
 <!--
 https://aleen42.github.io/badges/src/stackoverflow.svg
