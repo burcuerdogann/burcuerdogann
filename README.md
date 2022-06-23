@@ -8,7 +8,7 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](medium.com/@burcuerdogann) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](instagram.com/designbyburcuerdogan) 
 
-<img src="gorsel-link" width="auto">
+<img src="[gorsel-link](https://github.com/burcuerdogann/burcuerdogann/blob/main/check-mail-mail.gif)" width="auto">
 
 📫 Reach me: designbyburcuerdogan at gmail dot com
 
