@@ -3,7 +3,7 @@
 Ich bin Burcu.
 Hier finden Sie meine Website und meine Social Accounts:
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Website&logoColor=white)](https://www.designbyburcu.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.designbyburcu.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burcuerdogann)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
