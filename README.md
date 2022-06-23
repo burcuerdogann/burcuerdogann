@@ -13,11 +13,10 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 [![Stack](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19320380/burcu-erdo%c4%9fan)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/burcuerdogandan1)
-
+[![Sololearn](https://img.shields.io/badge/-Sololearn-000000?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/20252742)
 
 
 <!--
-https://aleen42.github.io/badges/src/stackoverflow.svg
 
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
