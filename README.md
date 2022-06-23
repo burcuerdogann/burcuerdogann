@@ -6,10 +6,14 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Website&logoColor=white)](https://www.designbyburcu.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burcuerdogann)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/designbyburcuerdogan/)
 
 <!--
+
+https://aleen42.github.io/badges/src/stackoverflow.svg
+www.pinterest.com/BurcuErdogann
 
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
