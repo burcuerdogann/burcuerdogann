@@ -18,7 +18,7 @@ You can find me around the Web:
 [![Sololearn](https://img.shields.io/badge/-Sololearn-000000?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/20252742)
 [![Udemy](https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/burcu-erdogan-12/)
 
-I've already know:
+I've already know about:
 
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
