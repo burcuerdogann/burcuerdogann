@@ -15,9 +15,11 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/burcuerdogandan1)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-000000?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/20252742)
 
-I already know:
+I've already known:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 I’m currently learning and working on:
 
@@ -25,6 +27,7 @@ I’m currently learning and working on:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 I want to learn deeply:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
