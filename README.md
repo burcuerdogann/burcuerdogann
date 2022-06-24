@@ -1,6 +1,6 @@
-### Hi there!
+### Hi there.
 
-Wecome to Burcu's GitHub Profile.
+Welcome to my GitHub Profile.
 
 You can find me elsewhere:
 
