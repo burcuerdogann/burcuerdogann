@@ -1,8 +1,7 @@
 ### Hi there.
 
-Ich bin Burcu.
-
-Hier finden Sie meine Website und meine Accounts:
+I am Burcu.
+Here you can find my Website and my Social Accounts:
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.designbyburcu.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
