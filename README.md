@@ -10,6 +10,7 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/designbyburcuerdogan/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://tr.pinterest.com/BurcuErdogann/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21b4jmjc3wd74l3ytt76eub2q?si=dc79d35a8549452f)
+[![Lastfm](https://img.shields.io/badge/last.fm-000000?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/tr/user/zemariii)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burcuerdogann)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 [![Stack](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19320380/burcu-erdo%c4%9fan)
