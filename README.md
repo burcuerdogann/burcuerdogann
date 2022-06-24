@@ -1,6 +1,6 @@
-### Hi there.
+### Hi there!
 
-I am Burcu. I'm always trying to grow and learn something new.
+Wecome to Burcu's GitHub Profile.
 
 You can find me elsewhere:
 
@@ -46,6 +46,9 @@ I’m currently learning and working on:
 I want to learn deeply:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+And I'm always trying to grow and learn something new.
+
 
 <!--
 
