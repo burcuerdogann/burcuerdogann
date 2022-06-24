@@ -16,6 +16,7 @@ Hier finden Sie meine Website und meine Social Accounts:
 [![Sololearn](https://img.shields.io/badge/-Sololearn-000000?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/20252742)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!--
 
