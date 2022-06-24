@@ -17,7 +17,7 @@ Hier finden Sie meine Website und meine Accounts:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/burcuerdogandan1)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-000000?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/20252742)
 [![Udemy](https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/burcu-erdogan-12/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=white)(https://www.duolingo.com/profile/BurcuErdoa8)
+[![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/BurcuErdoa8)
 
 I've already know:
 
