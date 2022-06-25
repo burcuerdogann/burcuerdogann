@@ -20,21 +20,21 @@ You can find me around the Web:
 
 I've already known about:
 
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-![AfterEffects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Indesign](https://img.shields.io/badge/Adobe%20InDesign-000000?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![AfterEffects](https://img.shields.io/badge/Adobe%20after%20affects-000000?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-000000?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-000000?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Sketch](https://img.shields.io/badge/Sketch-000000?style=for-the-badge&logo=sketch&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black)
 
 I’m currently learning and working on:
 
