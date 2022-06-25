@@ -11,7 +11,7 @@ Find me elsewhere:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 
 
-Already known about:
+Technologies & Tools:
 
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
