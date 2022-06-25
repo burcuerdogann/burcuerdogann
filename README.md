@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub Profile.
 
-You can find me around the Web:
+Find me around the Web:
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.designbyburcu.com)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
@@ -11,7 +11,7 @@ You can find me around the Web:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 
 
-I've already known about:
+Already known about:
 
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -29,14 +29,14 @@ I've already known about:
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
-I’m currently learning and working on:
+Currently learning and working on:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
 
-I want to learn deeply:
+Want to learn deeply:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
