@@ -45,8 +45,6 @@ Currently learning and working on:
 Want to learn deeply:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![libGdx](https://img.shields.io/badge/libGdx-000000?style=for-the-badge&logo=libGdx&logoColor=white)
-
 
 <!--
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://tr.pinterest.com/BurcuErdogann/)
