@@ -33,7 +33,7 @@ Tools & Technologies:
 
 Currently learning and working on:
 
-![Java](https://img.shields.io/badge/Java-0001200?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,8 +45,7 @@ Currently learning and working on:
 Want to learn deeply:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![libGdx](https://img.shields.io/badge/libGdx-000000?style=for-the-badge&logo=python&logoColor=white)
-
+![libGdx](https://img.shields.io/badge/libGdx-000000?style=for-the-badge&logo=libGdx&logoColor=white)
 
 
 <!--
