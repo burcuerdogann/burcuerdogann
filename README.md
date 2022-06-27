@@ -40,7 +40,7 @@ Currently learning and working on:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
 
 Want to learn deeply:
 
