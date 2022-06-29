@@ -41,6 +41,10 @@ Currently learning and working on:
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
+![Asp](https://img.shields.io/badge/Asp-000000?style=for-the-badge&logo=asp&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
+
 
 Want to learn deeply:
 
