@@ -44,9 +44,9 @@ Currently learning and working on:
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-000000?style=for-the-badge&logo=soap&logoColor=white
-![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white
-![UDDI](https://img.shields.io/badge/UDDI-000000?style=for-the-badge&logo=uddi&logoColor=white
+![Soap](https://img.shields.io/badge/SOAP-000000?style=for-the-badge&logo=soap&logoColor=white)
+![rest](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
+![UDDI](https://img.shields.io/badge/UDDI-000000?style=for-the-badge&logo=uddi&logoColor=white)
 
 
 Want to learn deeply:
