@@ -48,8 +48,6 @@ Currently learning and working on:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Soap](https://img.shields.io/badge/SOAP-000000?style=for-the-badge&logo=soap&logoColor=white)
 ![rest](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
-![UDDI](https://img.shields.io/badge/UDDI-000000?style=for-the-badge&logo=uddi&logoColor=white)
-
 
 Want to learn deeply:
 
