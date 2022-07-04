@@ -55,7 +55,6 @@ Want to learn deeply:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 [![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://tr.pinterest.com/BurcuErdogann/)
