@@ -51,7 +51,7 @@ Currently learning and working on:
 ![rest](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
 ![UDDI](https://img.shields.io/badge/UDDI-000000?style=for-the-badge&logo=uddi&logoColor=white)
 
-Want to learn deeply:
+Want to learn and teach deeply:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white)
