@@ -2,8 +2,8 @@
 
 Find me elsewhere:
 
-[![](https://img.shields.io/badge/000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.designbyburcu.com)
-[![linkedin](https://img.shields.io/badge/000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.designbyburcu.com)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/designbyburcuerdogan/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21b4jmjc3wd74l3ytt76eub2q?si=dc79d35a8549452f)
