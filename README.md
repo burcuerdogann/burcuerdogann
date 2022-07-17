@@ -30,9 +30,6 @@ Tools & Technologies:
 ![CSS](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
-
 
 Currently learning and working on:
 
