@@ -42,10 +42,7 @@ Currently learning and working on:
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
 ![Json](https://img.shields.io/badge/json%20web%20tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 
 Want to learn and teach deeply:
@@ -67,7 +64,9 @@ Want to learn and teach deeply:
 
 
 
-
+![Php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
