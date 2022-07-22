@@ -44,7 +44,7 @@ Currently learning and working on:
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logo=libgdx&logoColor=white)
 
-Want to learn and teach deeply:
+Want to teach deeply:
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white)
