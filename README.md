@@ -8,7 +8,6 @@ Find me elsewhere:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thewomanwholovestheuniverse/)
 [![Spotify](https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21b4jmjc3wd74l3ytt76eub2q?si=dc79d35a8549452f)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burcuerdogann)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Burcu-Erdogan)
 
 
@@ -63,7 +62,7 @@ Want to teach deeply:
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burcuerdogann)
 **burcuerdogann/burcuerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
