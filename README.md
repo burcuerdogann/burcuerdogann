@@ -3,7 +3,7 @@
 Find me elsewhere:
 
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/hateverse/)
-[![Company Website](https://img.shields.io/badge/Company Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.savoryoliveoil.com/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.savoryoliveoil.com/)
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burcuerdogan/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burcuerdogann)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thewomanwholovestheuniverse/)
